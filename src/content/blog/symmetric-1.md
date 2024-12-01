@@ -1,5 +1,5 @@
 ---
-title: The title of the post
+title: Notes on Symmetric Cryptography
 author: gingerbeam
 pubDatetime: 2022-09-21T05:17:19Z
 slug: symmetric-1
