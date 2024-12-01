@@ -1,13 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
-  <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-	<style>
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">  <image id="image0" width="16" height="16" x="0" y="0"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA51BMVEXy8P/c0//RxP/m4P/K
+vP+/r//Sxv/m4f/PztmMkLaTmbavr8fi2v62pP+yrNY7RpQxOI02QZo5SKKYm7m9serHuP+uqcig
+ma7f1NmNiKtRUY9BSICOhK7b0v/Nxue3nKnTtr3Kua/VycV7eY57cJvBt+i1l6Xnx9Srsb+yoKmj
+m51hUpDo4/6NjZWLksOUmrmIh5V4b46WjbLNxO6XmKFveKOGkcKYnbSWicDZ0PzTx/+pqrq9xO2x
+st+/yfeBfJfCuOfCwctvb3aFhpasq7tYTXrQzOO7re+KfbZbTYh6arGYiNH///+ol8RhAAAAAWJL
+R0RM928Q8wAAAAd0SU1FB+gLGAYIDWZb9ykAAACWSURBVBjTZY7FDsMwEAUNsYsubzllZmZm+P//
+aWUr2kNOTxp51kMIpYRxznAtiwophbNuoJ96vD5/IGgUJgRToXAkGosnFIAiXEoOyVQ6k83lwbbB
+gEKxVK5Uaxpopd5ottqdrlb00V5/MByNJ9gxnc0Xy9UaOzbb3f5wPGEHP1+ut/sDO+D5en++DDv+
+3znrBkYB5ewPL1UQpBCXtPMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMTEtMjRUMDY6MDg6MTMr
+MDA6MDCsxReGAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTExLTI0VDA2OjA4OjEzKzAwOjAw3Ziv
+OgAAAABJRU5ErkJggg==" />
 </svg>
