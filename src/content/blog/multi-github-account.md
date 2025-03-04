@@ -4,7 +4,7 @@ author: gingerbeam
 pubDatetime: 2025-03-04T19:06:31Z
 slug: multi-github-account
 featured: false
-draft: true
+draft: false
 tags:
   - git
 description:
