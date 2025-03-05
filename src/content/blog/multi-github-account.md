@@ -31,6 +31,8 @@ description:
 
 光指定没有用, 还需要设置 `git remote set-url origin https://username@github.com/username/repo.git`. 使用差异化 url 指定仓库具体需要使用哪个凭证.
 
+但是这个文件就是丢在 home 下的, 相当于还是在明文存储.
+
 如果是 windows 就没有这个问题, 直接没有这个文件, 在没有差异化 url 指定 token 的情况下, GCM 会直接弹出一个窗口进行选择.
 
 ## ssh
