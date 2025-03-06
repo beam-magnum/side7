@@ -19,6 +19,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: side7 # TODO：替换为 Deno Deploy 项目名称
+          project: beam-magnum-side7-14 # TODO：替换为 Deno Deploy 项目名称
           entrypoint: jsr:@std/http/file-server
           root: dist
